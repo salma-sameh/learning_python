@@ -1,0 +1,5 @@
+Statistics Results
+Numbers: [10.0, 12.0, 15.0, 30.0]
+Mean: 16.75
+Median: 13.5
+Mode: 10.0

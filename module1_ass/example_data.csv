@@ -1,0 +1,21 @@
+UserID,Name,Age,Email,Country,Signup_Date,Total_Purchase,Status
+101,Ahmed Ali,25,ahmed@gmail.com,Egypt,2023-01-15,$1200,Active
+102,sara mohamed,twenty-two,sara@gmail.com,egypt,2023/02/20,850,active
+103,John Smith,30,,USA,15-03-2023,1,Inactive
+104,Lina Hassan,,lina@yahoo.com,Egypt,2023-04-10,$950,Active
+105,Omar Adel,28,omar@outlook.com,,2023-05-01,700,Active
+106,Mona Samy,35,mona@gmail,UK,2023-06-12,£500,Inactive
+107,Ahmed Ali,25,ahmed@gmail.com,Egypt,2023-01-15,$1200,Active
+108,   Ali Nasser   ,40,ali@yahoo.com,UAE,,1500,ACTIVE
+109,Noor,29,noor@gmail.com,Egypt,2023-08-05,,Active
+110,Khaled,,khaled@gmail.com,Egypt,2023-09-10,900,Inactive
+111,Salma Sameh,23,salma@gmail.com,Egypt,2023-10-01,1000,Active
+112,George,thirty-five,george@gmail.com,USA,2023-11-20,1100,Active
+113,Lina Hassan,,lina@yahoo.com,Egypt,2023-04-10,$950,Active
+114,Youssef Ahmed,27,youssef@gmail.com,Egypt,2023-12-01,800,Pending
+115,Mariam,26,mariam@gmail.com,Egypt,not available,750,Active
+116,,31,emptyname@gmail.com,Egypt,2023-07-07,650,Active
+117,Hassan Ali,29,hassan@gmail.com,EGYPT,2023-06-15,700,active
+118,Nada,22,nada@gmail.com,Egypt,2023-03-22,free,Active
+119,Peter,45,peter@gmail.com,USA,2023-02-02,1300,Inactive
+120,Ahmed Ali,25,ahmed@gmail.com,Egypt,2023-01-15,$1200,Active
