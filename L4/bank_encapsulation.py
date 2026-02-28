@@ -21,5 +21,9 @@ class BankAccount:
 
 account = BankAccount("Alice", 1000)
 account.deposit(5000)
-print(account.get_balance())  # Output: 1500
+print(account.get_balance()) 
+# Output: 1500
 # print(account.__balance)  # AttributeError: private attribute
+account.withdraw(2000)
+print(account.get_balance())
+# Output: 3000

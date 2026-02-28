@@ -7,6 +7,8 @@ class Vehicle(ABC):
     @abstractmethod
     def start_engine(self):
         pass
+    def stop_engine(self):
+        pass
 
 
 # Inheritance + Encapsulation 
@@ -25,6 +27,8 @@ class Car(Vehicle):
             self.__speed = speed
         else:
             print("Speed cannot be negative")
+    def stop_engine(self):
+        print(f"{self.brand} {self.model} engine stopped ")        
 
     # Method
     def accelerate(self, value):
@@ -47,6 +51,7 @@ class Main:
         print("Current speed:", car1.get_speed())
 
         car1.accelerate(20)
+        car1.stop_engine()
 
 
 # Run program
